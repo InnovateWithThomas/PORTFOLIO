@@ -7,17 +7,18 @@ interface Props {
 }
 
 const {
-	title = 'PORTFOLIO 🚀',
-	description = 'The personal site of Thomas PAZZÉ',
+	title = 'PORTFOLIO 🔥',
+	description = 'Le site personnel de PAZZÉ Thomas',
 } = Astro.props;
 ---
 
 <meta charset="UTF-8" />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
+<meta name="twitter:card" content="summary_large_image" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://thomas-pazze.com" />
-<meta property="og:image" content="/public/assets/portrait.svg" />
+<meta property="og:url" content="https://thomas-pazze.com/" />
+<meta property="og:image" content="https://thomas-pazze.com/assets/portrait.svg" />
 <meta name="viewport" content="width=device-width" />
 <meta name="generator" content={Astro.generator} />
 <title>{title}</title>
