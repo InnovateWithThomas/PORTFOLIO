@@ -1,14 +1,13 @@
 ---
-title: Markdown Mystery Tour
-publishDate: 2020-03-02 00:00:00
+title: Gestion de films
+publishDate: 2023-1-10 00:00:00
 img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: Un screenshot d'un site web de gestion de films
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Mon collaborateur EULLAFFROY Nathan et moi-même avons créé un site de gestion de film dans le cadre d'un projet de fin d'année de BUT.
 tags:
-  - Design
-  - Dev
-  - User Testing
+  - Design & Dev
+  - Base de données
 ---
 
 ## Level-two heading
@@ -29,7 +28,8 @@ Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pe
 
 Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
 
-#### Level-four heading
+#### Points Clés
 
-- We noted this
-- And also this other point
+- Sécurité
+- Interface Utilisateur Conviviale
+- Scalabilité
